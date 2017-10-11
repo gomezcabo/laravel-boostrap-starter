@@ -12,3 +12,7 @@ yarn-error.log
 .env
 /.vscode
 composer.lock
+
+# Compiled files
+public/css/app.css
+public/js/app.js

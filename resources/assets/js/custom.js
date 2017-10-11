@@ -1,6 +1,5 @@
 $(document).ready(() => {
     setTimeout(() => {
-        $('.dropdown').addClass('open');
-        $('')
-    }, 2000);
+        $('#title').text('It worked!!');
+    }, 1000);
 });
