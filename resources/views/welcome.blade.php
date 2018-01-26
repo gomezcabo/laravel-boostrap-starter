@@ -55,6 +55,13 @@
         <button type="button" class="btn btn-dark">Dark</button>
     </div>
 
+    <div id="app" class="container">
+        <div class="starter-template">
+            <h1>Vue component</h1>
+            <example-component></example-component>
+        </div>
+    </div>
+
     <script src="{{ mix("js/app.js") }}"></script>
 </body>
 </html>
